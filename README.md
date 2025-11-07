@@ -7,6 +7,6 @@ My experience spans **pipeline development and optimization** using **R, Python,
 ---
 
 ### 🌐 Connect
-**Portfolio:** [nasimbio.github.io](https://nasimbio.github.io)  
-**Email:** [nasimrahmatpour1@gmail.com](mailto:nasimrahmatpour1@gmail.com)  
+**Email:** [nasimrahmatpour1@gmail.com](mailto:nasimrahmatpour1@gmail.com)
+**Linkedin:** [www.linkedin.com/in/nasim-rahmatpour]
 
