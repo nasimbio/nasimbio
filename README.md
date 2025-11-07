@@ -8,5 +8,5 @@ My experience spans **pipeline development and optimization** using **R, Python,
 
 ### 🌐 Connect
 **Email:** [nasimrahmatpour1@gmail.com](mailto:nasimrahmatpour1@gmail.com)
-**Linkedin:** [www.linkedin.com/in/nasim-rahmatpour]
+**Linkedin:** www.linkedin.com/in/nasim-rahmatpour
 
